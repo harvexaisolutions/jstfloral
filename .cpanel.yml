@@ -4,7 +4,7 @@
 # keeping /wp-content/themes/fleuriste/ at the end.
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/CPANELUSER/test.yourdomain.mu/wp-content/themes/fleuriste/
+    - export DEPLOYPATH=/home/jstflora/careful-silver-eel.102-222-107-11.cpanel.site/wp-content/themes/fleuriste/
     - /bin/mkdir -p $DEPLOYPATH
     - /bin/cp -R assets inc parts patterns styles templates $DEPLOYPATH
     - /bin/cp functions.php style.css theme.json screenshot.png readme.txt $DEPLOYPATH
