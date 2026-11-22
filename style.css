@@ -1,0 +1,18 @@
+/*
+Theme Name: Fleuriste
+Theme URI: https://example.com/fleuriste
+Author: Fleuriste
+Description: A soft, elegant block theme for flower shops, built for WooCommerce. Includes a ready-made homepage (hero, categories, bestsellers, occasions, offers, story and flower-club sections), styled shop and product pages, and a full colour palette you can change in Appearance → Editor → Styles.
+Requires at least: 6.6
+Tested up to: 7.1
+Requires PHP: 7.4
+Version: 1.29.7
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: fleuriste
+Tags: e-commerce, block-patterns, full-site-editing, custom-colors, editor-style, wide-blocks
+WC requires at least: 9.0
+WC tested up to: 11.2
+*/
+
+/* Theme styles live in assets/css/theme.css (loaded by functions.php). */
